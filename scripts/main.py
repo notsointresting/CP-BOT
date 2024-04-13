@@ -7,11 +7,8 @@ from telepot.loop import MessageLoop
 
 from profile import extract_codechef_data, extract_leetcode_data
 
-# Get today's date
-today = datetime.today()
-
 # Get the day name
-day_name = today.strftime("%A").lower()
+day_name = datetime.today().strftime('%A').lower()
 
 
 load_dotenv()
