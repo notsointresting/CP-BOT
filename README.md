@@ -1,7 +1,4 @@
-# NewsBot
-🤖 Daily News Bot: A Telegram bot that fetches and sends the contest details on contest day at 6:35 AM using GitHub Actions.
-
-## Overview
+# Overview
 🤖 CPCopilot Bot: Empowering competitive programmers with personalized insights, timely reminders. Your go-to assistant for mastering coding challenges and achieving excellence in competitive programming. 
 
 ## Table of Contents
